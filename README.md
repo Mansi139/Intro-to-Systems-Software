@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Intro-to-Systems-Software
 =======
 # Shared-Object-
@@ -12,3 +13,8 @@ A Shared Object is an executable file that acts as a shared library of functions
 The	mystrings program	should	take	a	 filename	 from	the	command line	and	read	the	bytes	of	
 the	file,	looking	for	strings	of	printable	characters.	
 >>>>>>> old_c/master
+=======
+# Blackjack
+
+Blackjack, a	multiplayer	card	game in C. 
+>>>>>>> old_d/master
